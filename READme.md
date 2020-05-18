@@ -14,7 +14,7 @@ arbitrarily shaped clusters.
     - ‘ε’ defines the radius of the ‘neighborhood region’ for data points to be considered in the same cluster
     - ‘minPoints’ defines the minimum number of points thats should be contained within that neighborhood in order to deem it a cluster
 
-[U) More technical details from the academic paper that introduced the DBSCAN algorithm](https://www.aaai.org/Papers/KDD/1996/KDD96-037.pdf)
+[(U) More technical details from the academic paper that introduced the DBSCAN algorithm](https://www.aaai.org/Papers/KDD/1996/KDD96-037.pdf)
 
 [(U) Documentation for the scikit-learn DBSCAN method used in this tool](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html)
 
