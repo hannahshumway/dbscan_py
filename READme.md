@@ -65,4 +65,4 @@ arbitrarily shaped clusters.
 
 ## (U) Point of Contact
 
-(U) If you have any questions about the tool or suggestions for improvement, please contact [insert email here](@.com)
+(U) If you have any questions about the tool or suggestions for improvement, please contact [hannahshumway17@gmail.com](hannahshumway17@gmail.com)
